@@ -1,3 +1,4 @@
+alias Experimental.{GenStage}
 defmodule XGPS.Example.Consumer do
   @moduledoc """
   The GenEvent handler implementation is a simple consumer.

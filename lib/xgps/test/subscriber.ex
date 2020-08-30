@@ -1,3 +1,4 @@
+alias Experimental.{GenStage}
 defmodule XGPS.Test.Subscriber do
   use GenStage
 
